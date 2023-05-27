@@ -2,6 +2,5 @@
 Tugas Manipulasi DOM dengan J-Query
 
 Member
-
-Raihan Latief - 215150407111033
-Agnes Imanuela Chanani - 215150407111022
+1. Raihan Latief - 215150407111033
+2. Agnes Imanuela Chanani - 215150407111022
