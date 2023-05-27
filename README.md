@@ -1,4 +1,3 @@
-# demo-jquery
 Tugas Manipulasi DOM dengan J-Query
 
 Member
